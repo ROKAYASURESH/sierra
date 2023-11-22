@@ -36,3 +36,54 @@
     transform: rotate(360deg);
   }
 }
+
+/*  */
+
+.third-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.third1{
+    background-image: url(image/3d-slider-shap.png.webp);
+    background-repeat: no-repeat;
+    background-size:contain;
+  
+    padding: 20px 40px;  
+}
+.third1 h2{
+    margin-top: 90px;
+    font-size: 700;
+    font-weight: bold;
+    color: wheat;
+}
+ .third1 p{
+    color: rgb(22, 22, 22);
+ }
+ .th{
+    display: flex;
+    margin-left: 3px;
+    color: red;
+ }
+
+.third2 p{ 
+    font-size: 600;
+    padding: 10px;
+    color: #ad95d8;
+}
+.third2 h2{
+    width: 100%;
+    line-height: 60px;
+    font-size:50px ;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.third2 p .pr{
+    line-height: 100px;
+    background-color: rebeccapurple;
+}
+.third3{
+
+}
