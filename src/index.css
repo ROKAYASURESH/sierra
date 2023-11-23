@@ -139,5 +139,44 @@ body{
   background-color: transparent;
   color: black;
  }
- /* Portfolio */
+ /* Blog */
+ .foot{
+  background-image: url('https://preview.colorlib.com/theme/sierra/img/service-bg.jpg.webp');
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 20px 0;
+  /* margin: 60px 0; */
+}
+.service-last{
+  width: 510px;
+  margin: 100px;
+
+}
+.service-last h2{
+  font-size: 16px;
+  margin: 20px 0;
+}
+.service-last h1{
+  font-size: 40px;
+  font-weight: 700;
+margin-bottom: 50px;
+}
+.service-last p{
+  color: #ad95d8;
+  font-size: 16px;
+  font-weight: 500px;
+  line-height: 50px;
+}
+
+.uls .lis:nth-child(odd), .bt
+{
+  background: linear-gradient(rgb(113, 217, 231),rgb(10, 77, 116));
+  margin: 30px 0;
+  padding: 20px;
+  color: White;
+}
+.uls .lis span{
+  margin-left: 76px;
+}
+
  
