@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://github.com/ROKAYASURESH/sierra/assets/127000485/59aba50d-1531-4cdc-93e7-a0ea9e8f023b
 
+## Table of Contents
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 
 
 ## Available Scripts
