@@ -8,7 +8,7 @@ export default function Blog() {
       <div class="foot">
         <div class="service-last">
             <img src="https://preview.colorlib.com/theme/sierra/img/icon/title-icon.png" alt="" />
-            <h2>DISCOVER THE FEATURES</h2>
+            <h2>DISCOVER THE FEATURES SUREH</h2>
             <h1>Simple solutions for <br></br> complicated times</h1>
             <p class="pr">Etiam nec odio vestibulum est mattis effic iturut magna.
               Pellentesque sit am et tellus blandit. Etiam nec odio vestibul.Cras ex mauris,
