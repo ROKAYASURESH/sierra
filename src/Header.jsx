@@ -22,7 +22,7 @@ export default function Header() {
                         <NavLink  activeClassName="menu_active"className="nav-link" to="/about">Abouts</NavLink>
                         </li>
                         <li className="nav-item">
-                        <NavLink activeClassName ="menu_active" className="nav-link" to="/service">Services</NavLink>
+                        <NavLink activeClassName ="menu_active" className="nav-link" to="/service">Servicevvvvv</NavLink>
                         </li>
                         <li className="nav-item">
                         <NavLink activeClassName="menu_active" className="nav-link" to="/portfolio">Portfolio</NavLink>
