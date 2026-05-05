@@ -11,7 +11,7 @@ export default function Home() {
                 <div className="col-lg-11 mx-auto ">
                     <div className="row">
                         <div className="col-md-6 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column fix">
-                            <h1>Choose a powerful design fffff    <strong className="brand-name">for your business</strong></h1>
+                            <h1>Choose a powerful design fffff ddsddsds<strong className="brand-name">for your business</strong></h1>
                             <h4>Get your Freebi Templete Now!!</h4>
 
                             <div className="mt-3">
