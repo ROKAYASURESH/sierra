@@ -19,10 +19,10 @@ export default function Header() {
                         <NavLink activeClassName ="menu_active" className="nav-link" aria-current="page" to="/">Home</NavLink>
                         </li>
                         <li className="nav-item">
-                        <NavLink  activeClassName="menu_active"className="nav-link" to="/about">About</NavLink>
+                        <NavLink  activeClassName="menu_active"className="nav-link" to="/about">Abouts</NavLink>
                         </li>
                         <li className="nav-item">
-                        <NavLink activeClassName ="menu_active" className="nav-link" to="/service">Service</NavLink>
+                        <NavLink activeClassName ="menu_active" className="nav-link" to="/service">Services</NavLink>
                         </li>
                         <li className="nav-item">
                         <NavLink activeClassName="menu_active" className="nav-link" to="/portfolio">Portfolio</NavLink>
